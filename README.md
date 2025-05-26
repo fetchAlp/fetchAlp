@@ -1,7 +1,7 @@
 # 🚀 Alp | Full Stack Developer & DevOps Engineer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+DevOps+Engineer;PHP+%E2%80%A2+Symfony+%E2%80%A2+Laravel+%E2%80%A2+Django;Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Microservices;Building+Scalable+%26+Secure+Solutions" alt="Professional Typing SVG" /><br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+DevOps+Engineer;PHP+%E2%80%A2+Symfony+%E2%80%A2+Laravel+%E2%80%A2+Django;Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Microservices;Building+Scalable+%26+Secure+Solutions" alt="Professional Typing SVG" />
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/🌍_Location-Turkey-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/💼_Status-Open_to_Work-brightgreen?style=for-the-badge" />
 </div>
-
+<br><br>
 ---
 
 
