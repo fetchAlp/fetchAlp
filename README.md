@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Alperen Ozdemir
 
 **Full Stack Developer** | **Backend Specialist** | **DevOps Enthusiast**
 
